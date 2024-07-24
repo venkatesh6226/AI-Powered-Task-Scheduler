@@ -1,6 +1,3 @@
-// web 298034226844-bij89t9c5knr5v13q7tsgren5h50vkqr.apps.googleusercontent.com
-// ios 298034226844-0o3k0h2bv5bkpso6d7q2v063c0kvjq6j.apps.googleusercontent.com
-//android 
 
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
